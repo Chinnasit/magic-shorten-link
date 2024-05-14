@@ -22,7 +22,7 @@ go get .
 cd ../frontend
 npm install
 ```
-4. Create a run.bat file in the backend folder
+4. Create a .env file in the backend folder
 ```bash
 DB_USERNAME=<db_username>
 DB_PASSWORD=<db_password>
@@ -35,7 +35,7 @@ DB_NAME=<db_name>
 1. Start the Backend Server:
 ```bash
 cd backend
-run.bat
+go run main.go
 ```
 2. Start the Frontend Server on a different port:
 ```bash
