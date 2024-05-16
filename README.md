@@ -1,3 +1,5 @@
+![Screenshot 2024-05-09 225537](https://github.com/Chinnasit/magic-shorten-link/assets/76206065/b92aac63-fd18-4424-91a3-c85580075093)
+
 # magic-shorten-link
 Shortly Link is a web application for URL shortening (URL Shortener) developed using Go (Gin), Gorm, and React. 
 I build this project with a video tutorial (https://www.youtube.com/watch?v=d2AIOCAiSZE).
