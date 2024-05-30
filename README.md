@@ -12,7 +12,7 @@ I build this project with a video tutorial (https://www.youtube.com/watch?v=d2AI
 # Installation
 1. Clone the project:
 ```bash
-  https://github.com/Chinnasit/magic-shorten-link.git
+  git clone https://github.com/Chinnasit/magic-shorten-link.git
 ```
 2. Install Backend Dependencies:
 ```bash
