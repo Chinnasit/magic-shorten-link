@@ -1,0 +1,30 @@
+# ส่วนของ Root
+.DS_Store
+.env
+
+# ส่วนของ Backend (Golang + Gin + GORM)
+/shortly-link-backend/tmp
+/shortly-link-backend/*.exe
+/shortly-link-backend/*.exe~
+/shortly-link-backend/*.dll
+/shortly-link-backend/*.so
+/shortly-link-backend/*.dylib
+/shortly-link-backend/*.test
+/shortly-link-backend/*.out
+/shortly-link-backend/vendor/
+/shortly-link-backend/.env
+
+# ส่วนของ Frontend (React + Tailwind CSS)
+/shortly-link-frontend/node_modules
+/shortly-link-frontend/.pnp
+/shortly-link-frontend/.pnp.js
+/shortly-link-frontend/coverage
+/shortly-link-frontend/build
+/shortly-link-frontend/.DS_Store
+/shortly-link-frontend/.env.local
+/shortly-link-frontend/.env.development.local
+/shortly-link-frontend/.env.test.local
+/shortly-link-frontend/.env.production.local
+/shortly-link-frontend/npm-debug.log*
+/shortly-link-frontend/yarn-debug.log*
+/shortly-link-frontend/yarn-error.log*
